@@ -1,3 +1,6 @@
 <script>
-alert("ha ha ha");
+  function DoAlert()
+  {
+    alert("ha ha ha");
+  }
 </script>
